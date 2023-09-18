@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite errors="0" failures="0" hostname="Runs.local" name="RationalTest" skipped="0" tests="8" time="0.218" timestamp="2023-09-12T04:58:35">
+<testsuite errors="0" failures="0" hostname="Run.s.ST-244F" name="RationalTest" skipped="0" tests="8" time="0.042" timestamp="2023-09-18T09:17:49">
   <properties>
     <property name="ant.project.invoked-targets" value="test" />
     <property name="java.runtime.name" value="OpenJDK Runtime Environment" />
@@ -67,12 +67,12 @@
     <property name="ftp.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16" />
     <property name="sun.cpu.isalist" value="" />
   </properties>
-  <testcase classname="RationalTest" name="testAdd" time="0.004" />
+  <testcase classname="RationalTest" name="testAdd" time="0.003" />
   <testcase classname="RationalTest" name="testSubtract" time="0.0" />
   <testcase classname="RationalTest" name="testToString" time="0.0" />
-  <testcase classname="RationalTest" name="testCompareTo" time="0.001" />
+  <testcase classname="RationalTest" name="testCompareTo" time="0.0" />
   <testcase classname="RationalTest" name="testDivide" time="0.0" />
-  <testcase classname="RationalTest" name="testEquals" time="0.0" />
+  <testcase classname="RationalTest" name="testEquals" time="0.001" />
   <testcase classname="RationalTest" name="testMultiply" time="0.0" />
   <testcase classname="RationalTest" name="testConstructor" time="0.0" />
   <system-out><![CDATA[]]></system-out>
